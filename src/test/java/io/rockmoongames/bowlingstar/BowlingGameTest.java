@@ -23,7 +23,24 @@ public class BowlingGameTest {
     }
 
     @Test
+    public void lisaTestFive() {
+
+
+    }
+    @Test
     public void lisaTestThree() {
+
+
+    }
+
+    @Test
+    public void lisaTestSix() {
+
+
+    }
+
+    @Test
+    public void lisaTestSeven() {
 
 
     }
